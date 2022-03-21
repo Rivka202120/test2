@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+.conteiner{
+    /* align-items: center; */
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100vw;
+    height: 10vh;
+}
+#inpSearch{
+    width: 500px;
+}
+#btnSearch{
+width: 150px;
+}
+#all{
+ width: 150px;
+
+}
+.summery{
+    border-top: 1px solid black;
+    width: 100vw;
+    height: 20vh;
+}
+.population{
+    border: 1px solid black;
+    width: 100vw;
+    height: 50vh;
+}
+.byCountries{
+    /* border: 1px solid black; */
+    width: 100vw;
+    height: 20vh;
+}
